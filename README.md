@@ -3,7 +3,7 @@
         <td>
             <img width="200px" src="https://i.imgur.com/ebUvaZm.jpeg"/>
         </td>
-        <td width="500px">
+        <td width="600px">
 <h1>welcome 👋</h1>
 <b>ongoing</b> <br>
 S1 sistem informasi<br>
