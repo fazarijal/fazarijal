@@ -9,10 +9,11 @@
 S1 sistem informasi<br>
 universitas negeri surabaya<br>
 <br>
-<b>otw</b><br>
-- front-end web dev<br>
-- back-end web dev<br>
-- sistem enterprise IT
+<b>on repeat</b><br>
+- mangan<br>
+- turu<br>
+- nyepur<br>
+- ngoding
         </td>
     </tr>
 </table>
