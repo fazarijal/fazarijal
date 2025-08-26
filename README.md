@@ -9,7 +9,7 @@
 S1 sistem informasi<br>
 universitas negeri surabaya<br>
 <br>
-<b>on repeat</b><br>
+<b>on repeat 🔁</b><br>
 - mangan<br>
 - turu<br>
 - nyepur<br>
